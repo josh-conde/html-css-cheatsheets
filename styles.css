@@ -7,7 +7,8 @@ h1, h2 {
     text-align: center
 }
 table {
-    background-color: #c56952; 
+    background-color: #c56952;
+    justify-items: center; 
 }
 thead {
     font-size: 22px; 
